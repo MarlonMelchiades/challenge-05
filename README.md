@@ -1,2 +1,2 @@
 # challenge-05
-the fifth in a series of challenges made in pure javascript!
+O quinto de uma série de desafios feitos em javascript puro!
